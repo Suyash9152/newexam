@@ -1,0 +1,5 @@
+obtain a repository
+list all files 
+delete the file 
+create a new brach
+switch from one brach to another
